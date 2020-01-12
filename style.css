@@ -1,0 +1,23 @@
+/*body{
+	color: red;
+	background: pink;
+	display: inline-block;
+}*/
+
+li{
+	display:inline-block;
+	padding: 20px;
+	margin:5px
+	font-size:4px; 
+}
+
+.navbar{
+	background: grey;
+}
+
+header{
+	background: green;
+}
+h1{
+	text-align: center;
+}
